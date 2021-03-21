@@ -1,0 +1,3 @@
+# Medusa's Sweater
+
+This project is intended to be a reworking of a Turing Mod 3 project previously done in Ruby on Rails called [Sweater Weather](https://backend.turing.io/module3/projects/sweater_weather/), this time in Python.  My Rails version of this project can be found [here](https://github.com/Stearnzy/sweater_weather).  This repo was initialized as a clone of [Ian's Flask starter repository](https://github.com/iandouglas/flask-restful-travis-heroku) with the database migrations removed, as this project does not utilize a database.
